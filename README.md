@@ -15,7 +15,7 @@
 <p>Clonar repositório do git, configurar para iniciar o projeto da WebApi(PasswordValidatorLayerApi).<p>
 <p>Veja as imagens abaixo:<p>
 <br>
-<img src="[URL_da_Imagem](https://github.com/marcelocaselli/Frattina/blob/main/img/config_inicalizacao_solution.png)">
+<img src="https://github.com/marcelocaselli/Frattina/blob/main/img/config_inicalizacao_solution.png">
 ![configuração1]()
 <br>
 ![configuração2](https://github.com/marcelocaselli/Frattina/blob/main/img/config_inicializaosolution2.png)
