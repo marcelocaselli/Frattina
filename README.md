@@ -15,19 +15,19 @@
 <p>Clonar repositório do git, configurar para iniciar o projeto da WebApi(PasswordValidatorLayerApi).<p>
 <p>Veja as imagens abaixo:<p>
 <br>
-![configuração1](https://github.com/marcelocaselli/Frattina/img/config_inicalizacao_solution.png)
+![configuração1](https://github.com/marcelocaselli/Frattina/blob/main/img/config_inicalizacao_solution.png)
 <br>
-![configuração2](https://github.com/marcelocaselli/Frattina/img/config_inicializaosolution2.png)
+![configuração2](https://github.com/marcelocaselli/Frattina/blob/main/img/config_inicializaosolution2.png)
 <br>
 <p>Feito isso, compilar o projeto e executá-lo. Será apresentado o swagger para que você possa fazer os testes de validação</p>
 <br>
 <p><b>Exemplo de mensagem sucesso pelo swagger</b></p>
 <br>
-![configuração1](https://github.com/marcelocaselli/Frattina/img/swagger200.png)
+![configuração1](https://github.com/marcelocaselli/Frattina/blob/main/img/swagger200.png)
 <br>
 <p><b>Exemplo de mensagem erro pelo swagger</b></p>
 <br>
-![configuração1](https://github.com/marcelocaselli/Frattina/img/swagger400.png)
+![configuração1](https://github.com/marcelocaselli/Frattina/blob/main/img/swagger400.png)
 <br>
 <br>
 <br>
