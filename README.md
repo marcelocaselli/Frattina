@@ -34,6 +34,6 @@
 <br>
 
 
-<p><b>Solução</b> - Utilizo camadas bem definidas (apresentação, negócio e dados). Na camada de dados estou utilizando uma lista pra armazenar as informações, mas poderia utilizar um arquivo, banco de dados, etc. Por ser mais simples a implementação coloquei em lista. Na camada de negocio após recuperar as regras, passo uma a uma para verificar se as mesmas estão sendo atendidas. Utilizo Regex pra solucao ficar mais limpa. Caso regra da senha não atendida eu incluo numa lista de erros de validação que será retornada a camada de apresentação. Procurei deixar código simples, legível. A API pode ser acessada pelo swagger.</p>
+<p><b>Solução</b> - Utilizo camadas bem definidas (apresentação, negócio e dados). Na camada de dados estou utilizando uma lista para armazenar as informações, mas poderia utilizar um arquivo, banco de dados, etc. Por ser mais simples a implementação coloquei em lista. Na camada de negocio após recuperar as regras, passo uma a uma para verificar se as mesmas estão sendo atendidas. Utilizo Regex para solucao ficar mais limpa. Caso a regra da senha não atendida, eu incluo numa lista de erros de validação que será retornada a camada de apresentação. Procurei deixar código simples, legível. A API pode ser acessada pelo swagger.</p>
 <br>
 <p>
