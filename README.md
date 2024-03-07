@@ -23,11 +23,11 @@
 <br>
 <p><b>Exemplo de mensagem sucesso pelo swagger</b></p>
 <br>
-![configuração1](https://github.com/marcelocaselli/Frattina/blob/main/img/swagger200.png)
+![configuração3](https://github.com/marcelocaselli/Frattina/blob/main/img/swagger200.png)
 <br>
 <p><b>Exemplo de mensagem erro pelo swagger</b></p>
 <br>
-![configuração1](https://github.com/marcelocaselli/Frattina/blob/main/img/swagger400.png)
+![configuração4](https://github.com/marcelocaselli/Frattina/blob/main/img/swagger400.png)
 <br>
 <br>
 <br>
