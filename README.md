@@ -16,19 +16,19 @@
 <p>Veja as imagens abaixo:<p>
 <br>
 <img src="https://github.com/marcelocaselli/Frattina/blob/main/img/config_inicalizacao_solution.png">
-![configuração1]()
 <br>
-![configuração2](https://github.com/marcelocaselli/Frattina/blob/main/img/config_inicializaosolution2.png)
+<img src="https://github.com/marcelocaselli/Frattina/blob/main/img/config_inicializaosolution2.png">
 <br>
 <p>Feito isso, compilar o projeto e executá-lo. Será apresentado o swagger para que você possa fazer os testes de validação</p>
 <br>
 <p><b>Exemplo de mensagem sucesso pelo swagger</b></p>
 <br>
-![configuração3](https://github.com/marcelocaselli/Frattina/blob/main/img/swagger200.png)
+<img src="https://github.com/marcelocaselli/Frattina/blob/main/img/swagger200.png">
 <br>
 <p><b>Exemplo de mensagem erro pelo swagger</b></p>
 <br>
-![configuração4](https://github.com/marcelocaselli/Frattina/blob/main/img/swagger400.png)
+<img src="https://github.com/marcelocaselli/Frattina/blob/main/img/swagger400.png">
+
 <br>
 <br>
 <br>
